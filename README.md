@@ -3,6 +3,8 @@
 Ortaokul ve lise seviyesindeki öğrenciler için hazırlanmış Python programlama ve temel yapay zeka uygulamaları başlangıç rehberidir. Bu depo, sıfırdan başlayarak veri işlemeyi, grafik çizmeyi, sohbet botu geliştirmeyi ve görsel işlemeyi adım adım öğreten 6 derslik bir müfredat içermektedir.
 
 Her ders yapı iskelesi (scaffolding) yöntemiyle kurgulanmıştır. Kodlar tek bir parça halinde verilmek yerine, her adımda üzerine yeni bir işlev eklenerek tam 5 farklı aşamada geliştirilir.
+<img width="977" height="602" alt="image" src="https://github.com/user-attachments/assets/961b922e-8a7d-4c57-8952-39487d245a6f" />
+
 
 ---
 
