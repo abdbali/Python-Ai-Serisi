@@ -5,7 +5,7 @@ Ortaokul ve Lise Öğrencileri için El Kitabı
 ---
 BÖLÜM 1: Python'a Merhaba! — Veri Tipleri ve Temel Komutlar
 ---
-🚀 Derse Giriş: Neden Kodlama Öğreniyoruz?
+ Derse Giriş: Neden Kodlama Öğreniyoruz?
 Şunu hayal et: Sabah uyandın, telefona baktın, YouTube sana tam senin ilgi alanına göre videolar öneriyor. Spotify çalma listeni oluşturuyor. Instagram reels'lerin tam senin takıldığın türden. Sihir mi? Hayır — Python kodu.
 Bugün öğreneceğin şeyler belki şu an çok küçük görünecek. Sadece ekrana yazı yazdırmak, sayı toplamak, kullanıcıdan bilgi almak... Ama bu adımlar olmadan o YouTube algoritması da, o öneri sistemi de, hiçbir şey olmaz. Bugün sıfırdan başlıyoruz — ama bu "sıfır" aslında her şeyin başlangıcı.
 Bu derste şunları öğreneceksin:
@@ -14,7 +14,7 @@ Veri kutularına bilgi koymak (Değişkenler)
 Farklı veri türlerini tanımak (String, Integer, Float)
 Kullanıcıdan bilgi almak (`input()`)
 ---
-💡 Bilgi Kutusu: Temel Kavramlar
+ Bilgi Kutusu: Temel Kavramlar
 `print()` — Ekrana Bağır!
 `print()` komutu, Python'a "hey, bunu ekrana yaz!" demek için kullanılır. Parantezin içine ne yazarsan ekranda o görünür. Tıpkı bir hoparlöre bağlı mikrofon gibi — ne söylersen onu seslendirir.
 Değişken — Etiketli Kutu
@@ -33,7 +33,7 @@ String'lerde veriyi tırnak içine alman şart — `"böyle"` ya da `'böyle'`. 
 `input()` — Kullanıcıdan Bilgi Al
 `input()` komutu, program çalışırken kullanıcıdan bilgi almaya yarar. Parantezin içine bir soru yazarsın, kullanıcı cevaplar, sen de o cevabı bir değişkende saklarsın.
 ---
-🛠️ Yapı İskelesi: 5 Adımda Kod
+Yapı İskelesi: 5 Adımda Kod
 Adım 1 — Sadece Ekrana Yaz
 ```python
 # Ekrana bir şey yazdıralım
@@ -126,14 +126,14 @@ gelecek_yas = yas + 10
 # Kişiselleştirilmiş çıktı
 print()  # Boş satır bırakmak için
 print(f"=== Merhaba, {isim}! ===")
-print(f"📍 Şehir: {sehir}")
-print(f"🎂 Yaşın: {yas}")
-print(f"🔮 10 yıl sonra {gelecek_yas} yaşında olacaksın!")
-print(f"🐍 Python öğrendiğin için tebrikler!")
+print(f" Şehir: {sehir}")
+print(f" Yaşın: {yas}")
+print(f" 10 yıl sonra {gelecek_yas} yaşında olacaksın!")
+print(f" Python öğrendiğin için tebrikler!")
 ```
 > **Bu adımda ne değişti?** Program artık robot gibi sabit çıktı vermiyor — kullanıcıya göre kişiselleşiyor! `int()` dönüşümünü ekledik çünkü `input()` her şeyi metin olarak alır.
 ---
-⚠️ Dikkat: Hata Canavarı!
+ Dikkat: Hata Canavarı!
 Hata 1 — Tırnak İşareti Unutmak
 ```python
 #  YANLIŞ - Python "Merhaba" kelimesinin ne olduğunu bilmiyor
